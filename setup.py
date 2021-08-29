@@ -22,7 +22,7 @@ setuptools.setup(
     classifiers=[
         # Trove classifiers
         # (https://pypi.python.org/pypi?%3Aaction=list_classifiers)
-        'Development Status :: 5 - Stable',
+        'Development Status :: 3 - Alpha',
         'License :: OSI Approved :: MIT License',
         'Operating System :: Microsoft :: Windows :: Windows 10',
         'Programming Language :: Python',
